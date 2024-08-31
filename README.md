@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💻 With expertise in Python, HTML, CSS, and JavaScript, I specialize in building sleek, user-centric web applications.<br><br>🌱 Always hungry for knowledge, I thrive on exploring emerging technologies and pushing the boundaries of what's possible.<br><br>🤝 I thrive in collaborative environments, contributing actively to open-source projects and engaging with the vibrant tech community.<br><br>🎨 Beyond coding, I find inspiration in design principles and enjoy creating intuitive interfaces that elevate user experiences.<br><br>📚 I'm continuously learning new technologies and languages to enhance my skills and stay up-to-date with industry trends.</p>
+<p align="left">🌱 Always hungry for knowledge, I thrive on exploring emerging technologies and pushing the boundaries of what's possible.<br><br>🤝 I thrive in collaborative environments, contributing actively to open-source projects and engaging with the vibrant tech community.<br><br>🎨 Beyond coding, I find inspiration in design principles and enjoy creating intuitive interfaces that elevate user experiences.<br><br>📚 I'm continuously learning new technologies and languages to enhance my skills and stay up-to-date with industry trends.</p>
 
 ###
 
