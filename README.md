@@ -19,24 +19,24 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" style="cursor: default;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40" alt="qt logo" style="cursor: default;" />
-  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo" style="cursor: default;" />
-  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo" style="cursor: default;" />
-  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" height="35" alt="streamlit logo" style="cursor: default;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" style="cursor: default;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" style="cursor: default;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" style="cursor: default;" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" style="cursor: default;" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" style="cursor: default;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" style="cursor: default;" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" style="cursor: default;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" style="cursor: default;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo" style="cursor: default;" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo" style="cursor: default;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" style="cursor: default;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" style="cursor: default;" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" style="cursor: default;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40"  alt="python logo" style="cursor: default;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40" width="40"  alt="qt logo" style="cursor: default;" />
+  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo" style="cursor: default;" width="40" />
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo" style="cursor: default;" width="40"  />
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" height="35" alt="streamlit logo" style="cursor: default;" width="40"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" style="cursor: default;" width="40"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" style="cursor: default;" width="40"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" style="cursor: default;" width="40"  />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" style="cursor: default;" width="40"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" style="cursor: default;" width="40"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" style="cursor: default;" width="40"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" style="cursor: default;" width="40"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" style="cursor: default;" width="40"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo" style="cursor: default;" width="40"  />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo" style="cursor: default;" width="40"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" style="cursor: default;" width="40"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" style="cursor: default;" width="40"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" style="cursor: default;" width="40"  />
 </div>
 
 ###
